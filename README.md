@@ -46,11 +46,11 @@
 
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
-| 1 | 3.1 | 🟡 | --- | --- |
-| 2 | 3.2 | 🟡 | --- | --- |
-| 3 | 3.3 | 🟡 | --- | --- |
-| 4 | 3.4 | 🟡 | --- | --- |
-| 5 | 3.5 | 🟡 | --- | --- |
+| 1 | 3.1 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/3.1/3.1.cpp) | --- |
+| 2 | 3.2 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/3.2/3.2.cpp) | --- |
+| 3 | 3.3 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/3.3/3.3.cpp) | --- |
+| 4 | 3.4 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/3.4/3.4.cpp) | --- |
+| 5 | 3.5 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/3.5/3.5.cpp) | --- |
 | 6 | 3.6 | 🔴 | --- | --- |
 | 7 | 3.7 | 🔴 | --- | --- |
 | 8 | 3.8 | 🔴 | --- | --- |
@@ -59,10 +59,10 @@
 | 11 | 3.11 | 🔴 | --- | --- |
 | 12 | 3.12 | 🔴 | --- | --- |
 | 13 | 3.13 | 🔴 | --- | --- |
-| 14 | bubble | 🟢 | --- | --- |
-| 15 | choice | 🟡 | --- | --- |
-| 16 | insertion | 🟡 | --- | --- |
-| 17 | fibonacci | 🟡 | --- | --- |
-| 18 | eight_ferz | 🟢 | --- | --- |
-| 19 | nod | 🟢 | --- | --- |
+| 14 | bubble | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/bubble/bubble.cpp) | [scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/bubble/bubble.png) |
+| 15 | choice | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/choice/choice.cpp) | --- |
+| 16 | insertion | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/insertion/insertion.cpp) | --- |
+| 17 | fibonacci | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/fibonacci/fibonacci.cpp) | --- |
+| 18 | eight_ferz | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/eight_ferz/eight_ferz.cpp) | [scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/eight_ferz/eight_ferz.png) |
+| 19 | nod | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/n0d/n0d.cpp) | [scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/n0d/n0d.png) |
 
