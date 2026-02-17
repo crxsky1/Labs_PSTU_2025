@@ -41,3 +41,25 @@
 | 34 | eq_half | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/d34360547db8bcb6b78e8c9db6e54cde0c210d00/sem_1/eq_half/eq_half.cpp) | [scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/d34360547db8bcb6b78e8c9db6e54cde0c210d00/sem_1/eq_half/eq_half.png) |
 | 35 | eq_newton | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/9c40e25b9dfc57bac0f1ae385b45d4bd46ef9493/sem_1/eq_newtone/eq_newtone.cpp) | [scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/9c40e25b9dfc57bac0f1ae385b45d4bd46ef9493/sem_1/eq_newtone/eq_newtone.png) |
 | 36 | eq_iter | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/75f13282e013e112d773ed4dd36630cc39ee7c28/sem_1/eq_iter/eq_iter.cpp) | [scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/75f13282e013e112d773ed4dd36630cc39ee7c28/sem_1/eq_iter/eq_iter.png) |
+
+## ✅ 2 семестр
+
+| п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
+| --- | --- | --- | --- | --- |
+| 1 | 3.1 | 🟢 | --- | --- |
+| 2 | 3.2 | 🟢 | --- | --- |
+| 3 | 3.3 | 🟢 | --- | --- |
+| 4 | 3.4 | 🟢 | --- | --- |
+| 5 | 3.5 | 🟢 | --- | --- |
+| 6 | 3.6 | 🟢 | --- | --- |
+| 7 | 3.7 | 🟢 | --- | --- |
+| 8 | 3.8 | 🟢 | --- | --- |
+| 9 | 3.9 | 🟢 | --- | --- |
+| 10 | 3.10 | 🟢 | --- | --- |
+| 11 | 3.11 | 🟢 | --- | --- |
+| 12 | 3.12 | 🟢 | --- | --- |
+| 13 | 3.13 | 🟢 | --- | --- |
+| 14 | bubble | 🟢 | --- | --- |
+| 15 | choice | 🟢 | --- | --- |
+| 16 | insertion | 🟢 | --- | --- |
+
