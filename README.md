@@ -46,10 +46,10 @@
 
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
-| 1 | 3.1 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/3.1/3.1.cpp) | --- |
-| 2 | 3.2 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/3.2/3.2.cpp) | --- |
-| 3 | 3.3 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/3.3/3.3.cpp) | --- |
-| 4 | 3.4 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/3.4/3.4.cpp) | --- |
+| 1 | 3.1 | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/3.1/3.1.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/845827d78db99b2c54393eda84966e63f1263f09/sem_2/3.1/3.1.png) |
+| 2 | 3.2 | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/3.2/3.2.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/845827d78db99b2c54393eda84966e63f1263f09/sem_2/3.2/3.2.png) |
+| 3 | 3.3 | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/3.3/3.3.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/845827d78db99b2c54393eda84966e63f1263f09/sem_2/3.3/3.3.png) |
+| 4 | 3.4 | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/3.4/3.4.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/845827d78db99b2c54393eda84966e63f1263f09/sem_2/3.4/3.4.png) |
 | 5 | 3.5 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/3.5/3.5.cpp) | --- |
 | 6 | 3.6 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/74dcc93a75e80fc2ffab14ade4b0e064a7132b0b/sem_2/3.6/3.6.cpp) | --- |
 | 7 | 3.7 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/74dcc93a75e80fc2ffab14ade4b0e064a7132b0b/sem_2/3.7/3.7.cpp) | --- |
