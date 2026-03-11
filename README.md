@@ -66,7 +66,7 @@
 | 18 | eight_ferz | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/eight_ferz/eight_ferz.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/eight_ferz/eight_ferz.png) |
 | 19 | nod | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/n0d/n0d.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/6f38b79e3f0233e16c528ac04dd4e34fc9f83da7/sem_2/n0d/n0d.png) |
 | 20 | xanoi_tower | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/c59ff0bf08a8d24852cf5051560ed6ca1779b680/sem_2/xan_tower/xan_tower.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/c59ff0bf08a8d24852cf5051560ed6ca1779b680/sem_2/xan_tower/xan_tower.png) |
-| 21 | laba_3_var_4 | 🔴 | --- | --- |
+| 21 | laba_3_var_4 | :yellow_circle: | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/231c725848da0706004c097b9522171eb28a22f1/sem_2/laba_3_var_4/laba_3_var_4.cpp) | --- |
 | 22 | laba_4_var_4 | 🔴 | --- | --- |
 | 23 | laba_5_var_4 | 🔴 | --- | --- |
 | 24 | laba_6_var_4 | 🔴 | --- | --- |
