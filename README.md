@@ -68,7 +68,7 @@
 | 20 | xanoi_tower | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/c59ff0bf08a8d24852cf5051560ed6ca1779b680/sem_2/xan_tower/xan_tower.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/c59ff0bf08a8d24852cf5051560ed6ca1779b680/sem_2/xan_tower/xan_tower.png) |
 | 21 | laba_3_var_4 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/231c725848da0706004c097b9522171eb28a22f1/sem_2/laba_3_var_4/laba_3_var_4.cpp) | --- |
 | 22 | laba_4_var_4 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/31c2f63903eff252961e09c7a987cd9dc7025b7e/sem_2/laba_4_var_4/laba_4_var_4.cpp) | --- |
-| 23 | laba_5_var_4 | 🔴 | --- | --- |
+| 23 | laba_5_var_4 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/2b5620a041e91f282f7a29343833c6631dd45729/sem_2/laba_5_var_4/laba_5_var_4.cpp) | --- |
 | 24 | laba_6_var_4 | 🔴 | --- | --- |
 | 25 | laba_7_1_var_4 | 🔴 | --- | --- |
 | 26 | laba_7_2_var_4 | 🔴 | --- | --- |
