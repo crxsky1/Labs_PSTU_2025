@@ -72,7 +72,7 @@
 | 24 | laba_6_var_4 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/ee7fcb37c697a16fb3d1236565a60052c8431800/sem_2/laba_6_var_4/laba_6_var_4.cpp) | --- |
 | 25 | laba_7_1_var_4 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/8959676526b4f689eef279ddb698b67950d7264f/sem_2/laba_7_1_var_4/laba_7_1_var_4.cpp) | --- |
 | 26 | laba_7_2_var_4 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/9e6a38bdb14d78bb505bc20aa1d307fe00f682b8/sem_2/laba_7_2_var_4/laba_7_2_var_4.cpp) | --- |
-| 27 | laba_8_var_4 | 🟡 | [code]() | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/41012a0159f0ff4d1ffc6dc13e3503fdc229f377/sem_2/laba_8_var_4/laba_8_var_4.cpp) |
+| 27 | laba_8_var_4 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/41012a0159f0ff4d1ffc6dc13e3503fdc229f377/sem_2/laba_8_var_4/laba_8_var_4.cpp) | --- |
 | 28 | laba_9_var_4 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/0e1d0b07aa3d00dfe2418cec47961ba18d42a7dd/sem_2/laba_9_var_4/laba_9_var_4.cpp) | --- |
 | 29 | laba_10_var_4 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/55dd93b99b8293469ea600faf2247f7839f081c3/sem_2/laba_10_var_4/laba_10_var_4.cpp) | --- |
 | 30 | laba_11_1_var_4 | 🔴 | [code]() | --- |
