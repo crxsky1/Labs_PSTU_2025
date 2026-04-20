@@ -79,4 +79,16 @@
 | 31 | laba_11_2 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/44065e828acfd6fabc2bed9a81f8b021dd105f90/sem_2/laba_11/laba_11_2/BidirectionalList.cpp) | --- |
 | 32 | laba_11_3 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/d17e99ef48d4f9233e0912a965f87be66edee5e1/sem_2/laba_11/laba_11_3/Stack.cpp) | --- |
 | 33 | laba_11_4 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/66db765115967257931d395d13c74ad0d36df430/sem_2/laba_11/laba_11_4/queue.cpp) | --- |
+| 34 | lin_search | 🔴 | [code]() | --- |
+| 35 | int_search | 🔴 | [code]() | --- |
+| 36 | native_search | 🔴 | [code]() | --- |
+| 37 | kmp_search | 🔴 | [code]() | --- |
+| 38 | boyer_search | 🔴 | [code]() | --- |
+| 38 | lomuto_sort | 🔴 | [code]() | --- |
+| 38 | merge_sort | 🔴 | [code]() | --- |
+| 38 | bucket_sort | 🔴 | [code]() | --- |
+| 38 | count_sort | 🔴 | [code]() | --- |
+| 38 | shell_sort | 🔴 | [code]() | --- |
+| 38 | hoare_sort | 🔴 | [code]() | --- |
+| 38 | _sort | 🔴 | [code]() | --- |
 
