@@ -78,5 +78,5 @@
 | 30 | laba_11_1 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/d81f751995e60628c35483eb1b5647f3aed1a221/sem_2/laba_11/laba_11_1/UndirectionalList.cpp) | --- |
 | 31 | laba_11_2 | 🔴 | [code]() | --- |
 | 32 | laba_11_3 | 🔴 | [code]() | --- |
-| 33 | laba_11_4 | 🔴 | [code]() | --- |
+| 33 | laba_11_4 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/66db765115967257931d395d13c74ad0d36df430/sem_2/laba_11/laba_11_4/queue.cpp) | --- |
 
