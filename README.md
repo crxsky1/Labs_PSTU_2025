@@ -1,7 +1,7 @@
-# 🕸️ Лабораторные работы по Информатике и Профильным дисциплинам
-## 🕸️ Васильев Даниэль | ИВТ-25-1б
+# 🕸️ Лабораторные работы по Информатике и Профильным дисциплинам 🕸️
+## 🕸️ Васильев Даниэль | ИВТ-25-1б 🕸️
 
-## 🕸️ 1 семестр
+## 🕸️ 1 семестр 🕸️
 
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
@@ -42,7 +42,7 @@
 | 35 | eq_newton | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/9c40e25b9dfc57bac0f1ae385b45d4bd46ef9493/sem_1/eq_newtone/eq_newtone.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/9c40e25b9dfc57bac0f1ae385b45d4bd46ef9493/sem_1/eq_newtone/eq_newtone.png) |
 | 36 | eq_iter | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/75f13282e013e112d773ed4dd36630cc39ee7c28/sem_1/eq_iter/eq_iter.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/75f13282e013e112d773ed4dd36630cc39ee7c28/sem_1/eq_iter/eq_iter.png) |
 
-## ✅ 2 семестр
+## 🕸️ 2 семестр 🕸️
 
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
