@@ -84,11 +84,11 @@
 | 36 | native_search | 🔴 | [code]() | --- |
 | 37 | kmp_search | 🔴 | [code]() | --- |
 | 38 | boyer_search | 🔴 | [code]() | --- |
-| 38 | lomuto_sort | 🔴 | [code]() | --- |
-| 38 | merge_sort | 🔴 | [code]() | --- |
-| 38 | bucket_sort | 🔴 | [code]() | --- |
-| 38 | count_sort | 🔴 | [code]() | --- |
-| 38 | shell_sort | 🔴 | [code]() | --- |
-| 38 | hoare_sort | 🔴 | [code]() | --- |
-| 38 | _sort | 🔴 | [code]() | --- |
+| 39 | lomuto_sort | 🔴 | [code]() | --- |
+| 40 | merge_sort | 🔴 | [code]() | --- |
+| 41 | bucket_sort | 🔴 | [code]() | --- |
+| 42 | count_sort | 🔴 | [code]() | --- |
+| 43 | shell_sort | 🔴 | [code]() | --- |
+| 44 | hoare_sort | 🔴 | [code]() | --- |
+| 45 | _sort | 🔴 | [code]() | --- |
 
