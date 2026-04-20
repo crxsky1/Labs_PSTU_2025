@@ -76,7 +76,7 @@
 | 28 | laba_9_var_4 | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/0e1d0b07aa3d00dfe2418cec47961ba18d42a7dd/sem_2/laba_9_var_4/laba_9_var_4.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/5d380bb95a51b61fb98df0719dda1191868dfb47/sem_2/laba_9_var_4/laba_9_var_4.png) |
 | 29 | laba_10_var_4 | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/55dd93b99b8293469ea600faf2247f7839f081c3/sem_2/laba_10_var_4/laba_10_var_4.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/e0203d41da1e01553c0c73767604f7c1f59d20db/sem_2/laba_10_var_4/laba_10_var_4.png) |
 | 30 | laba_11_1 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/d81f751995e60628c35483eb1b5647f3aed1a221/sem_2/laba_11/laba_11_1/UndirectionalList.cpp) | --- |
-| 31 | laba_11_2 | 🔴 | [code]() | --- |
+| 31 | laba_11_2 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/44065e828acfd6fabc2bed9a81f8b021dd105f90/sem_2/laba_11/laba_11_2/BidirectionalList.cpp) | --- |
 | 32 | laba_11_3 | 🔴 | [code]() | --- |
 | 33 | laba_11_4 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/66db765115967257931d395d13c74ad0d36df430/sem_2/laba_11/laba_11_4/queue.cpp) | --- |
 
