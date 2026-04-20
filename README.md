@@ -75,8 +75,8 @@
 | 27 | laba_8_var_4 | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/41012a0159f0ff4d1ffc6dc13e3503fdc229f377/sem_2/laba_8_var_4/laba_8_var_4.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/feb9be5f9130e5d46777be3621acb64f5e8c5b6f/sem_2/laba_8_var_4/laba_8_var_4.png) |
 | 28 | laba_9_var_4 | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/0e1d0b07aa3d00dfe2418cec47961ba18d42a7dd/sem_2/laba_9_var_4/laba_9_var_4.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/5d380bb95a51b61fb98df0719dda1191868dfb47/sem_2/laba_9_var_4/laba_9_var_4.png) |
 | 29 | laba_10_var_4 | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/55dd93b99b8293469ea600faf2247f7839f081c3/sem_2/laba_10_var_4/laba_10_var_4.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/e0203d41da1e01553c0c73767604f7c1f59d20db/sem_2/laba_10_var_4/laba_10_var_4.png) |
-| 30 | laba_11_1_var_4 | 🔴 | [code]() | --- |
-| 31 | laba_11_2_var_4 | 🔴 | [code]() | --- |
-| 32 | laba_11_3_var_4 | 🔴 | [code]() | --- |
-| 33 | laba_11_4_var_4 | 🔴 | [code]() | --- |
+| 30 | laba_11_1 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/91c1bc0211563537453dcdda45eb5757f268fc82/sem_2/laba_11/laba_11_1/queue.cpp) | --- |
+| 31 | laba_11_2 | 🔴 | [code]() | --- |
+| 32 | laba_11_3 | 🔴 | [code]() | --- |
+| 33 | laba_11_4 | 🔴 | [code]() | --- |
 
