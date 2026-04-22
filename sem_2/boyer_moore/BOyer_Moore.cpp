@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <string>
 
 using namespace std;
@@ -22,8 +22,8 @@ using namespace std;
 
 
 	lo_loello_o_hello
-		  hello
-			 | l != _   =>   сдвиг на 1
+	      hello
+		     | l != _   =>   сдвиг на 1
 
 
 	lo_loello_o_hello
@@ -33,7 +33,7 @@ using namespace std;
 	lo_loello_o_hello
 				hello
 	  !!!найдено!!!
-
+	
 */
 
 struct Shift {
@@ -41,48 +41,41 @@ struct Shift {
 	int shift = 0;
 };
 
-// Алгоритм Бойера-Мура-Хорствула
-int BMHSearch(string str, string substr) {
+// Алгоритм Бойера-Мура
+int BMSearch(string str, string substr) {
 	int size = substr.size();
 	Shift* tsh = new Shift[size];
 
-	for (int i = 0; i < size - 1; i++) {
+	for (int i = 0; i < size-1; i++) {
 		tsh[i].letter = substr[i];
 		tsh[i].shift = size - 1 - i;
 	}
-	tsh[size - 1].letter = substr[size - 1];
+	tsh[size - 1].letter = substr[size-1];
 	tsh[size - 1].shift = size;
-
-	cout << "таблица сдвигов" << endl;
-	for (int i = 0; i < size; i++) { cout << "     " << tsh[i].letter << " - " << tsh[i].shift << endl; }
+	// cout << "таблица сдвигов" << endl;
+	// for (int i = 0; i < size; i++) { cout << "     " << tsh[i].letter << " - " << tsh[i].shift << endl; }
 
 
 
 	int idx = 0;
-	while (idx + size - 1 < str.size()) {
+	while (idx + size-1 < str.size()) {
 		for (int i = size - 1; i >= 0; i--) {
-			cout << endl << str << endl;
-			for (int i = 0; i < idx; i++) { cout << " "; }
-			cout << substr << endl;
-			cout << "  " << substr[i] << " " << str[i + idx] << endl;
+			// cout << endl << str << endl;
+			// for (int i = 0; i < idx; i++) { cout << " "; }
+			// cout << substr << endl;
+			// cout << "  " << substr[i] << " " << str[i+idx] << endl;
 
-
-			if (substr[i] == str[i + idx]) {
+			if (substr[i] == str[i+idx]) {
 				if (i == 0) {
-					cout << "ответ найден" << endl;
 					delete[] tsh;
 					return idx;
 				}
 			}
 			else {
-				for (int j = size - 1; j >= -1; j--) {
-					if (j == -1) {
-						cout << " += " << size << " " << "idx = " << idx << endl << endl;
-						idx += size;
-					}
-					else if (str[i + idx] == tsh[j].letter) {
+				for (int j = size-1; j >= 0 ; j--) {
+					if (substr[i] == tsh[j].letter) {
 						idx += tsh[j].shift;
-						cout << " += " << tsh[j].shift << " " << "idx = " << idx << endl << endl;
+						// cout << " += " << tsh[j].shift << " " << "idx = " << idx << endl << endl;
 						break;
 					}
 				}
@@ -99,9 +92,9 @@ int BMHSearch(string str, string substr) {
 
 int main() {
 	setlocale(LC_ALL, "ru");
-
+	
 	string str = "lo_loello_o_hello";
 	string substr = "hello";
 
-	cout << "     " << BMHSearch(str, substr);
+	cout << BMSearch(str, substr);
 }
