@@ -83,7 +83,7 @@
 | 35 | int_search | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/efccc0f6dec9fea87bc8405505291bb7e6d78bae/sem_2/int_search/int_search.cpp) | --- |
 | 36 | native_search | 🔴 | [code]() | --- |
 | 37 | kmp_search | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/3534e2a1a3e301efedc2a0392376002184d60a41/sem_2/kmp_search/kmp_search.cpp) | --- |
-| 38 | boyer_search | 🔴 | [code]() | --- |
+| 38 | boyer_search | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/116f40f3a441da89d5ba07fe4e63943c0cdf1bb8/sem_2/boyer_moore/BOyer_Moore.cpp) | --- |
 | 39 | lomuto_sort | 🔴 | [code]() | --- |
 | 40 | shell_sort | 🔴 | [code]() | --- |
 | 41 | hoare_sort | 🔴 | [code]() | --- |
