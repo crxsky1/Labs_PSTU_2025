@@ -90,5 +90,6 @@
 | 42 | count_sort | 🔴 | [code]() | --- |
 | 43 | merge_sort | 🔴 | [code]() | --- |
 | 44 | bucket_sort | 🔴 | [code]() | --- |
-| 45 | _sort | 🔴 | [code]() | --- |
+| 45 | natural_sort | 🔴 | [code]() | --- |
+| 46 | polyphase_sort | 🔴 | [code]() | --- |
 
