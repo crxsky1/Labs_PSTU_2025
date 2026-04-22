@@ -85,7 +85,7 @@
 | 37 | kmp_search | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/3534e2a1a3e301efedc2a0392376002184d60a41/sem_2/kmp_search/kmp_search.cpp) | --- |
 | 38 | boyer_search | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/116f40f3a441da89d5ba07fe4e63943c0cdf1bb8/sem_2/boyer_moore/BOyer_Moore.cpp) | --- |
 | 39 | lomuto_sort | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/56342367ee1853b4118b0a6f375502dc0dfaa1ca/sem_2/lomuto_sort/lomuto_sort.cpp) | --- |
-| 40 | shell_sort | 🔴 | [code]() | --- |
+| 40 | shell_sort | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/220a207ad946470cbba8e65767117bcb5af8105a/sem_2/shell_sort/shell_sort.cpp) | --- |
 | 41 | hoare_sort | 🔴 | [code]() | --- |
 | 42 | count_sort | 🔴 | [code]() | --- |
 | 43 | merge_sort | 🔴 | [code]() | --- |
