@@ -80,7 +80,7 @@
 | 32 | laba_11_3 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/d17e99ef48d4f9233e0912a965f87be66edee5e1/sem_2/laba_11/laba_11_3/Stack.cpp) | --- |
 | 33 | laba_11_4 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/66db765115967257931d395d13c74ad0d36df430/sem_2/laba_11/laba_11_4/queue.cpp) | --- |
 | 34 | lin_search | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/561fbeb447ac409e7c2fd1824efe89bda131b610/sem_2/lin_search/lin_search.cpp) | --- |
-| 35 | int_search | 🔴 | [code]() | --- |
+| 35 | int_search | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/efccc0f6dec9fea87bc8405505291bb7e6d78bae/sem_2/int_search/int_search.cpp) | --- |
 | 36 | native_search | 🔴 | [code]() | --- |
 | 37 | kmp_search | 🔴 | [code]() | --- |
 | 38 | boyer_search | 🔴 | [code]() | --- |
