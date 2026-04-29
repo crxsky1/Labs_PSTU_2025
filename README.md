@@ -82,7 +82,7 @@
 | 34 | lin_search | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/561fbeb447ac409e7c2fd1824efe89bda131b610/sem_2/lin_search/lin_search.cpp) | --- |
 | 35 | int_search | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/efccc0f6dec9fea87bc8405505291bb7e6d78bae/sem_2/int_search/int_search.cpp) | --- |
 | 36 | native_search | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/8435a844586be382ef87ccd0cd5a6e64371cb6bb/sem_2/native_search/native_search.cpp) |  |---
-| 37 | kmp_search | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/3534e2a1a3e301efedc2a0392376002184d60a41/sem_2/kmp_search/kmp_search.cpp) | --- |
+| 37 | kmp_search | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/3534e2a1a3e301efedc2a0392376002184d60a41/sem_2/kmp_search/kmp_search.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/ccc09c06d223116bc6a7e4d129806f873990ca0d/sem_2/kmp_search/KMP_search.png) |
 | 38 | boyer_search | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/116f40f3a441da89d5ba07fe4e63943c0cdf1bb8/sem_2/boyer_moore/BOyer_Moore.cpp) | --- |
 | 39 | lomuto_sort | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/56342367ee1853b4118b0a6f375502dc0dfaa1ca/sem_2/lomuto_sort/lomuto_sort.cpp) | --- |
 | 40 | shell_sort | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/220a207ad946470cbba8e65767117bcb5af8105a/sem_2/shell_sort/shell_sort.cpp) | --- |
