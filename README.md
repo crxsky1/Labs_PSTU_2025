@@ -93,9 +93,9 @@
 | 45 | natural_sort | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/2e747775732e8a6a964e76b883033ebbe5ef7b5f/sem_2/natural_sort/natural_sort.cpp) | --- |
 | 46 | polyphase_sort | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/2e747775732e8a6a964e76b883033ebbe5ef7b5f/sem_2/polyphase_sort/polyphase_sort.cpp) | --- |
 | 47 | hash | 🔴 | [code]() | --- |
-| 48 | class1 | 🔴 | [code]() | --- |
-| 49 | class2 | 🔴 | [code]() | --- |
-| 50 | class3 | 🔴 | [code]() | --- |
+| 48 | class1 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/558ea94bcf4c61537d75ecbdf8bc09efa3d50ce7/sem_2/class/class_1/class_1.cpp) | --- |
+| 49 | class2 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/558ea94bcf4c61537d75ecbdf8bc09efa3d50ce7/sem_2/class/class_2/class_2.cpp) | --- |
+| 50 | class3 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/558ea94bcf4c61537d75ecbdf8bc09efa3d50ce7/sem_2/class/class_3/class_3.cpp) | --- |
 | 51 | class4 | 🔴 | [code]() | --- |
 | 52 | class5 | 🔴 | [code]() | --- |
 | 53 | class6 | 🔴 | [code]() | --- |
