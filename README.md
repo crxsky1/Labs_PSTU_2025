@@ -92,4 +92,15 @@
 | 44 | bucket_sort | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/2e747775732e8a6a964e76b883033ebbe5ef7b5f/sem_2/bucket_sort/bucket_sort.cpp) | --- |
 | 45 | natural_sort | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/2e747775732e8a6a964e76b883033ebbe5ef7b5f/sem_2/natural_sort/natural_sort.cpp) | --- |
 | 46 | polyphase_sort | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/2e747775732e8a6a964e76b883033ebbe5ef7b5f/sem_2/polyphase_sort/polyphase_sort.cpp) | --- |
+| 47 | hash | 🔴 | [code]() | --- |
+| 48 | class1 | 🔴 | [code]() | --- |
+| 49 | class2 | 🔴 | [code]() | --- |
+| 50 | class3 | 🔴 | [code]() | --- |
+| 51 | class4 | 🔴 | [code]() | --- |
+| 52 | class5 | 🔴 | [code]() | --- |
+| 53 | class6 | 🔴 | [code]() | --- |
+| 54 | class7 | 🔴 | [code]() | --- |
+| 55 | class8 | 🔴 | [code]() | --- |
+| 56 | class9 | 🔴 | [code]() | --- |
+| 57 | class10 | 🔴 | [code]() | --- |
 
