@@ -86,7 +86,7 @@
 | 38 | boyer_search | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/116f40f3a441da89d5ba07fe4e63943c0cdf1bb8/sem_2/boyer_moore/BOyer_Moore.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/91ca1ae7ae4983f54eea3b9e72a488f7aff61978/sem_2/boyer_moore/boyer_moore.png) |
 | 39 | lomuto_sort | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/56342367ee1853b4118b0a6f375502dc0dfaa1ca/sem_2/lomuto_sort/lomuto_sort.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/a1c4d6a87de67f77730ee902d06f679286e67bc5/sem_2/lomuto_sort/lomuto_sort.png) |
 | 40 | shell_sort | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/220a207ad946470cbba8e65767117bcb5af8105a/sem_2/shell_sort/shell_sort.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/eb9fedd827fa6885bb8a1cb0834aedb3b1f22182/sem_2/shell_sort/shell_sort.png) |
-| 41 | hoare_sort | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/b3fc2814dc30b0e729f7c7f56aba2b745465767e/sem_2/hoare_sort/hoare_sort.cpp) | --- |
+| 41 | hoare_sort | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/b3fc2814dc30b0e729f7c7f56aba2b745465767e/sem_2/hoare_sort/hoare_sort.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/f8240d797955d2e48db4dc6bcfe20b7850af697d/sem_2/hoare_sort/hoare_sort.png) |
 | 42 | count_sort | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/ba188800c35a494916d7808124b13de1909bbc59/sem_2/count_sort/count_sort.cpp) | [block-scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/5a4870353f40623c0006234b8cf04a748b1194a4/sem_2/count_sort/CountSort.png) |
 | 43 | merge_sort | 🔴 | [code]() | --- |
 | 44 | bucket_sort | 🔴 | [code]() | --- |
