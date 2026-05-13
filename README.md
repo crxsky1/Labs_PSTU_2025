@@ -99,7 +99,7 @@
 | 51 | class_4 | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/2c4008195251ab3111173e5da2425c01137f5d9e/sem_2/class/class_4/class_4.cpp) | [diagram](https://github.com/danil2005620/Labs_PSTU_2025/blob/2c4008195251ab3111173e5da2425c01137f5d9e/sem_2/class/class_4/class_4.png) |
 | 52 | class_5 | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/2c4008195251ab3111173e5da2425c01137f5d9e/sem_2/class/class_5/class_5.cpp) | [diagram](https://github.com/danil2005620/Labs_PSTU_2025/blob/2c4008195251ab3111173e5da2425c01137f5d9e/sem_2/class/class_5/class_5.png) |
 | 53 | class_6 | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/2c4008195251ab3111173e5da2425c01137f5d9e/sem_2/class/class_6/list.h) | [diagram](https://github.com/danil2005620/Labs_PSTU_2025/blob/2c4008195251ab3111173e5da2425c01137f5d9e/sem_2/class/class_6/class_6.png) |
-| 54 | class_7 | 🔴 | [code]() | --- |
+| 54 | class_7 | 🟡 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/fb1bcc03982ebcdd223c0964fe400863be46210f/sem_2/class/class_7/class_7.cpp)  | --- |
 | 55 | class_8 | 🔴 | [code]() | --- |
 | 56 | class_9 | 🔴 | [code]() | --- |
 | 57 | class_10 | 🔴 | [code]() | --- |
