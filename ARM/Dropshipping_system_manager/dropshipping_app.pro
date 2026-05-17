@@ -23,3 +23,5 @@ FORMS += \
     mainwindow.ui
 
 TARGET = DropshippingApp
+
+RC_ICONS = DropshippingApp.ico
