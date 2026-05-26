@@ -106,7 +106,7 @@
 | 58 | class_11 | 🟢 | [repository](https://github.com/crxsky1/Labs_PSTU_2025/tree/cb1a11d78ebbd475b92f5c9ab80e298f81fd25c5/sem_2/class/class_11) | [diagram]() |
 | 59 | class_12 | 🟢 | [repository](https://github.com/crxsky1/Labs_PSTU_2025/tree/cb1a11d78ebbd475b92f5c9ab80e298f81fd25c5/sem_2/class/class_12) | [diagram]() |
 | 60 | class_13 | 🟢 | [repository](https://github.com/crxsky1/Labs_PSTU_2025/tree/ae246dad9a091ab8a3241ef4401c5c7617e24a04/sem_2/class/class_13) | [diagram]() |
-| 61 | BinTree | 🟢 | [repository]() | --- |
-| 62 | Graph | 🟢 | [repository]() | --- |
+| 61 | BinTree | 🟢 | [repository](https://github.com/Vizer2132/Labs_PSTU/tree/3bc85a928ef7f8e2d707cf47a66a6b9255104e0f/second_semestr/Labs/Trees) | [diagram]() |
+| 62 | Graphs | 🟢 | [repository](https://github.com/crxsky1/Labs_PSTU_2025/tree/be63776cce2be78147158c3f179ed8eb314291c0/sem_2/Graphs) | [diagram]() |
 | 63 | Kommi | 🟢 | [repository]() | --- |
 
